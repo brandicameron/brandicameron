@@ -1,5 +1,3 @@
-<style>h1,h2,h3,h4 { border-bottom: 0; } h1 {margin: 3.5rem 0 0 0;} h2 {margin-top: -0.5rem;} .icon {margin-right: 0.5rem;} ul {padding: 0;} li {display: flex; align-items: center; padding: 0.3rem} a {color: #6877fd; } </style>
-
 ![Hi! I'm Brandi.](/images/brandi.png)
 
 # Hi, I'm Brandi — a front-end developer & designer in Nashville.
